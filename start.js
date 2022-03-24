@@ -1,3 +1,3 @@
 console.log("hello World");
 console.log("!!");
-console.log('wykurwisty konflikt');
+console.log('ale zajebisty konflikt');
